@@ -1,0 +1,31 @@
+body {
+  align-content: center;
+  width: 100vw;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+#Name {
+  font-weight: bold;
+  padding: 5px;
+  border-bottom: 2px solid #4e8831;
+}
+#emailDiv {
+  padding: 5px;
+  margin: 5px;
+  color: #c6ced0;
+}
+#newContact {
+  margin: 10px;
+}
+img {
+  width: 150px;
+}
